@@ -11,8 +11,8 @@ const translations = {
 }
 
 const i18nConfig = {
-  resources: translations,
   fallbackLng: 'en-US',
+  resources: translations,
 }
 
 i18n.use(LanguageDetector).use(initReactI18next).init(i18nConfig)

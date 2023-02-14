@@ -3,6 +3,13 @@
     "title": "Olá Mundo",
     "home": {
       "description": "Essa é a descrição"
-    }
+    },
+    "changed_language_zero": "O idioma nao foi alterado",
+    "changed_language_one": "O idioma foi alterado 1 vez",
+    "changed_language_other": "O idioma foi alterado {{count}} vezes"
+  },
+
+  "language-select": {
+    "label": "Escolha um idioma"
   }
 }

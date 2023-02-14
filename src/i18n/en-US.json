@@ -3,6 +3,13 @@
     "title": "Hello World",
     "home": {
       "description": "This is the description"
-    }
+    },
+    "changed_language_zero": "Language has not changed",
+    "changed_language_one": "Language changed once",
+    "changed_language_other": "Language changed {{count}} times"
+  },
+
+  "language-select": {
+    "label": "Choose language"
   }
 }
